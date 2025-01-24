@@ -15,5 +15,5 @@ A simple recipe page built with basic HTML. It displays a scrambled eggs recipe 
 
 ## How to View
 1. Open `index.html` in a web browser to view the page locally.
-2. Or view the live demo: [Live Demo](https://sourtik.github.io/Recipe-page/)  
+2. Or view the live demo: [Live Demo]([https://sourtik.github.io/Recipe-page/](https://sourtik.github.io/Recipe-project/))  
 3. See the code on GitHub: [GitHub Repository](https://github.com/SourTik/Recipe-page)
